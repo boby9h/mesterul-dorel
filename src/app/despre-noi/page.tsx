@@ -1,7 +1,6 @@
 export default function DespreNoiPage() {
 return ( <div className="container-page py-16 max-w-4xl"> <h1 className="text-4xl font-bold mb-8">Despre noi</h1>
 
-```
   <div className="space-y-6 text-lg">
     <p>
       Mesterul Dorel este o platformă creată pentru a simplifica procesul
