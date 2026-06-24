@@ -71,7 +71,6 @@ return ( <div className="container-page py-16 max-w-4xl"> <h1 className="text-4x
     </p>
   </div>
 </div>
-```
 
 );
 }
