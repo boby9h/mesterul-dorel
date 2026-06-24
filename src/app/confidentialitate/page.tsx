@@ -1,7 +1,9 @@
 export default function ConfidentialitatePage() {
   return (
     <div className="container-page py-16 max-w-4xl">
-      <h1 className="text-4xl font-bold mb-8">Politica de confidențialitate</h1>
+      <h1 className="text-4xl font-bold mb-8">
+        Politica de confidențialitate
+      </h1>
 
       <div className="space-y-8 text-lg">
         <p>
@@ -16,8 +18,8 @@ export default function ConfidentialitatePage() {
           </h2>
           <p>
             Putem colecta informații precum numele, adresa de email,
-            numărul de telefon și alte date furnizate voluntar prin formularele
-            disponibile pe platformă. :contentReference[oaicite:0]{index=0}
+            numărul de telefon și alte date furnizate voluntar prin
+            formularele disponibile pe platformă.
           </p>
         </section>
 
@@ -27,8 +29,7 @@ export default function ConfidentialitatePage() {
           </h2>
           <p>
             Datele colectate sunt utilizate pentru funcționarea platformei,
-            comunicarea cu utilizatorii, îmbunătățirea serviciilor și
-            facilitarea conexiunii dintre clienți și meseriași. :contentReference[oaicite:1]{index=1}
+            comunicarea cu utilizatorii și îmbunătățirea serviciilor.
           </p>
         </section>
 
@@ -37,8 +38,8 @@ export default function ConfidentialitatePage() {
             3. Cookie-uri
           </h2>
           <p>
-            Platforma poate utiliza cookie-uri și tehnologii similare pentru
-            analiza traficului și îmbunătățirea experienței utilizatorilor. :contentReference[oaicite:2]{index=2}
+            Platforma poate utiliza cookie-uri pentru îmbunătățirea
+            experienței utilizatorilor și analiza traficului.
           </p>
         </section>
 
@@ -47,9 +48,8 @@ export default function ConfidentialitatePage() {
             4. Protecția datelor
           </h2>
           <p>
-            Luăm măsuri tehnice și organizatorice rezonabile pentru protejarea
-            datelor împotriva accesului neautorizat, modificării sau pierderii
-            acestora. :contentReference[oaicite:3]{index=3}
+            Luăm măsuri rezonabile pentru protejarea datelor împotriva
+            accesului neautorizat, modificării sau pierderii acestora.
           </p>
         </section>
 
@@ -58,9 +58,8 @@ export default function ConfidentialitatePage() {
             5. Drepturile utilizatorilor
           </h2>
           <p>
-            Utilizatorii pot solicita accesul, rectificarea sau ștergerea
-            datelor personale, precum și alte drepturi prevăzute de legislația
-            aplicabilă privind protecția datelor. :contentReference[oaicite:4]{index=4}
+            Utilizatorii pot solicita accesul, modificarea sau ștergerea
+            datelor personale în conformitate cu legislația aplicabilă.
           </p>
         </section>
 
@@ -69,8 +68,7 @@ export default function ConfidentialitatePage() {
             6. Contact
           </h2>
           <p>
-            Pentru întrebări legate de prelucrarea datelor personale ne poți
-            contacta la adresa:
+            Pentru întrebări privind datele personale ne poți contacta la:
           </p>
 
           <div className="mt-4 rounded-xl border p-4">
