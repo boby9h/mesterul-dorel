@@ -54,10 +54,29 @@ export function Footer() {
         <div>
           <h3 className="mb-4 text-sm font-semibold uppercase tracking-wide text-white">Companie</h3>
           <ul className="space-y-2.5 text-sm">
-            <li><Link href="#" className="text-slate-400 hover:text-primary">Despre noi</Link></li>
-            <li><Link href="#" className="text-slate-400 hover:text-primary">Cum funcționează</Link></li>
-            <li><Link href="#" className="text-slate-400 hover:text-primary">Termeni și condiții</Link></li>
-            <li><Link href="#" className="text-slate-400 hover:text-primary">Confidențialitate</Link></li>
+            <li>
+  <Link href="/despre-noi" className="text-slate-400 hover:text-primary">
+    Despre noi
+  </Link>
+</li>
+
+<li>
+  <Link href="/cum-functioneaza" className="text-slate-400 hover:text-primary">
+    Cum funcționează
+  </Link>
+</li>
+
+<li>
+  <Link href="/termeni-si-conditii" className="text-slate-400 hover:text-primary">
+    Termeni și condiții
+  </Link>
+</li>
+
+<li>
+  <Link href="/confidentialitate" className="text-slate-400 hover:text-primary">
+    Confidențialitate
+  </Link>
+</li>
           </ul>
         </div>
       </div>
